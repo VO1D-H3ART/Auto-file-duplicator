@@ -15,7 +15,7 @@ sudo apt install inotify-tools rsync
 
 The .sh file goes /usr/local/bin/ 
 
-The .service file goes /etc/systemd/system/watch-vault.service
+The .service file goes /etc/systemd/system/
 
 ```
 sudo chmod +x /usr/local/bin/watch-vault.sh
